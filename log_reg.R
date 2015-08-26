@@ -1,4 +1,4 @@
-Enter file contents here######################################################################################
+######################################################################################
 #A Logistic Regression model to predict customer probability to buy a new plan
 #Here we train the model with 70% of train data and 30% of test data
 #then predict the new set of data
